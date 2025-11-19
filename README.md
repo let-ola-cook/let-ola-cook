@@ -54,6 +54,6 @@ New to Git, but **not new to cooking great code**.
 ---
 
 <p align="center">
-  🔥 *Let him cook… the recipe is downloading.* 🔥
+  🔥 Let him cook… the recipe is downloading... 🔥
 </p>
 
