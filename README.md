@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F7B93E&center=true&vCenter=true&width=550&lines=LET+HIM+COOK!+🔥;Ola+is+in+the+Coding+Kitchen+👨🏾‍🍳💻;JavaScript+Developer+in+Training+but+Still+Dangerous" />
